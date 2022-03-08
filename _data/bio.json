@@ -102,13 +102,26 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Arizona State University, Tempe, AZ",
+      "area": "Ph.D. Student in Computer Science (expected May 2023)",
+      "studyType": "Ph.D.",
+      "startDate": "2019-08-25",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "4.00/4.00",
+      "courses": [Research Focus: 
+                  Usable Security and Privacy for Citizen Centered Smart Cities
+      ]
+    }
+    {
+      "institution": "Arizona State University, Tempe, AZ",
+      "area": "Biomedical Engineering",
+      "studyType": "B.S.E.",
+      "startDate": "2010-08-25",
+      "endDate": "2015-05-13",
+      "gpa": "3.86/4.00",
       "courses": [
+      Barrett Honors College Thesis:
+      Systemic Morphine Model by Compartmentalization
       ]
     }
   ],

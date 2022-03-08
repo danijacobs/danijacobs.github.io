@@ -73,7 +73,7 @@
         "Hadoop",
         "Apache Spark"
       ]
-    }
+    },
     {
       "name": "Project Management",
       "level": "",
@@ -86,7 +86,7 @@
         "Scrum Master",
         "Product Owner"
       ]
-    }
+    },
     {
       "name": "Other",
       "level": "",
@@ -111,7 +111,7 @@
       "Reserach Focus": "Usable Security and Privacy for Citizen Centered Smart Cities",
       "courses": [
       ]
-    }
+    },
     {
       "institution": "Arizona State University, Tempe, AZ",
       "area": "Biomedical Engineering",
@@ -137,7 +137,7 @@
       "position": "Information Security Specialist in Cyber Risk Management, Information Security",
       "startDate": "2017-05-15",
       "endDate": "2020-03-15",
-    }
+    },
     {
       "company": "Intel Corporation",
       "position": "Product Engineer in Tapeout Technology Dev, Technology Manufacturing Group",

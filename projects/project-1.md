@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/story3_color.png
+image: images/story2_color.png
 title: Cyberharm Scorecard
 permalink: projects/scoorecard
 # All dates must be YYYY-MM-DD format!

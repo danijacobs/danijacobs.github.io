@@ -16,9 +16,10 @@ summary: My current research is focused on developing a end-user centered secuir
 ---
 I am studying how security can become more inclusive. 
 
+
 <div class="ui small rounded images">
   <img class="ui image" src="../images/story1_color.png">
-  <img class="ui image" src="../images/story2_color.pngg">
+  <img class="ui image" src="../images/story2_color.png">
   <img class="ui image" src="../images/story3_color.png">
 </div>
 

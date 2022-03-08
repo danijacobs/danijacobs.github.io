@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/story3_color.png
 title: Cyberharm Scorecard
 permalink: projects/scoorecard
 # All dates must be YYYY-MM-DD format!
@@ -16,10 +16,9 @@ summary: My current research is focused on developing a end-user centered secuir
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/story1_color.png">
+  <img class="ui image" src="../images/story2_color.pngg">
+  <img class="ui image" src="../images/story3_color.png">
 </div>
 
 I am studying how security can become more inclusive. 

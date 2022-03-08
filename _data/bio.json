@@ -25,28 +25,52 @@
       },
     ]
   },
+  "interests": [
+    {
+      "name": "internet of things",
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
+      ]
+    },
+    {
+      "name": "data mining",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "artificial intelligence",
+      "keywords": [
+      ]
+    }
+  ],
   "skills": [
     {
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
+        "Python",
         "C++",
-        "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "D3"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Windows",
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Ghidra",
+        "WinDBG",
+        "Dtrace",
+        "DBG (pwndbg, GEF)",
+        "Angr",
+        "PostgreSQL",
+        "MongoDB"
       ]
     }
   ],

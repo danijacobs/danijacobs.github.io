@@ -108,8 +108,8 @@
       "startDate": "2019-08-25",
       "endDate": "Present",
       "gpa": "4.00/4.00",
-      "courses": [Research Focus: 
-                  Usable Security and Privacy for Citizen Centered Smart Cities
+      "Reserach Focus": "Usable Security and Privacy for Citizen Centered Smart Cities",
+      "courses": [
       ]
     }
     {
@@ -119,9 +119,8 @@
       "startDate": "2010-08-25",
       "endDate": "2015-05-13",
       "gpa": "3.86/4.00",
+      "Barrett Honors College Thesis": "Systemic Morphine Model by Compartmentalization",
       "courses": [
-      Barrett Honors College Thesis:
-      Systemic Morphine Model by Compartmentalization
       ]
     }
   ],

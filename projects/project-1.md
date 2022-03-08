@@ -14,14 +14,11 @@ labels:
   - Qualitative Code Analysis 
 summary: My current research is focused on developing a end-user centered secuirty scorecard.
 ---
+I am studying how security can become more inclusive. 
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/story1_color.png">
   <img class="ui image" src="../images/story2_color.pngg">
   <img class="ui image" src="../images/story3_color.png">
 </div>
-
-I am studying how security can become more inclusive. 
-
-
 

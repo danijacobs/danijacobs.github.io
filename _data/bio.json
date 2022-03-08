@@ -15,29 +15,41 @@
     "profiles": [
       {
         "network": "github",
-        "username": "danijacobs",
-        "url": "http://github.com/danijacobs"
+        "username": "mmaluhia",
+        "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "daniellerjacobs",
-        "url": "http://linkedin.com/in/daniellerjacobs"
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
       },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
+      },
+      {
+        "network": "instagram",
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
+      }
     ]
   },
   "interests": [
     {
-      "name": "cybersecurity",
+      "name": "internet of things",
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
+      ]
+    },
+    {
+      "name": "data mining",
       "keywords": [
       ]
     },
     {
-      "name": "privacy",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "human factors",
+      "name": "artificial intelligence",
       "keywords": [
       ]
     }
@@ -47,123 +59,109 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Python",
+        "C",
         "C++",
+        "Java",
         "Javascript",
         "Assembly",
-        "D3",
-        "MATLAB"
+        "Common Lisp"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Windows",
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "Ghidra",
-        "WinDBG",
-        "Dtrace",
-        "DBG (pwndbg, GEF)",
-        "Angr",
-        "PostgreSQL",
-        "MongoDB",
-        "Hadoop",
-        "Apache Spark"
-      ]
-    },
-    {
-      "name": "Project Management",
-      "level": "",
-      "keywords": [
-        "Project Management",
-        "Stakeholder Management",
-        "Customer Orientation",
-        "Agile Development Life Cycle",
-        "Scaled Agile Framework",
-        "Scrum Master",
-        "Product Owner"
-      ]
-    },
-    {
-      "name": "Other",
-      "level": "",
-      "keywords": [
-        "Emulytics with Minimega",
-        "Risk Management",
-        "Information Security",
-        "Qualitiative Code Analysis",
-        "Signal Processing",
-        "Biosensors"
+        "g++",
+        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
-      "institution": "Arizona State University, Tempe, AZ",
-      "area": "Ph.D. Student in Computer Science (expected May 2023)",
-      "studyType": "Ph.D.",
-      "startDate": "2019-08-25",
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "4.00/4.00",
-      "Reserach Focus": "Usable Security and Privacy for Citizen Centered Smart Cities",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Arizona State University, Tempe, AZ",
-      "area": "Biomedical Engineering",
-      "studyType": "B.S.E.",
-      "startDate": "2010-08-25",
-      "endDate": "2015-05-13",
-      "gpa": "3.86/4.00",
-      "Barrett Honors College Thesis": "Systemic Morphine Model by Compartmentalization",
+      "gpa": "",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "Sandia National Laboratory",
-      "position": "R&D Cybersecurity Intern",
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
       "website": "",
-      "startDate": "2020-05-25",
+      "startDate": "2015-08-01",
       "endDate": "Present",
+      "summary": "Head of online presence for Ka Leo",
+      "highlights": [
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
+      ]
     },
     {
-      "company": "Intel Corporation",
-      "position": "Information Security Specialist in Cyber Risk Management, Information Security",
-      "startDate": "2017-05-15",
-      "endDate": "2020-03-15",
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
     },
     {
-      "company": "Intel Corporation",
-      "position": "Product Engineer in Tapeout Technology Dev, Technology Manufacturing Group",
-      "startDate": "2015-07-23",
-      "endDate": "2017-05-15",
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "NSF Research Traineeship, Citizen-Centered Smart Cities and Smart Living",
-      "date": "2019-Present",
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "ARCS Mary Ann White Memorial Scholar",
-      "date": "2022-2023",
-      "awarder": "ARCS",
-    },
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+    }
+  ],
+  "references": [
     {
-      "title": "Awarded Honorable Mention in 2021 NSF Graduate Research Fellowship Program",
-      "date": "2021",
-      "awarder": "NSF",
-    },
-    {
-      "title": "Department Recognition Award, Intel Corporation Information Security",
-      "date": "2018",
-      "awarder": "Intel",
+      "name": "Available upon request",
+      "reference": ""
     }
   ]
 }

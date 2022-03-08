@@ -29,8 +29,6 @@
     {
       "name": "cybersecurity",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -53,7 +51,8 @@
         "C++",
         "Javascript",
         "Assembly",
-        "D3"
+        "D3",
+        "MATLAB"
       ]
     },
     {
@@ -70,7 +69,34 @@
         "DBG (pwndbg, GEF)",
         "Angr",
         "PostgreSQL",
-        "MongoDB"
+        "MongoDB",
+        "Hadoop",
+        "Apache Spark"
+      ]
+    }
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": [
+        "Project Management",
+        "Stakeholder Management",
+        "Customer Orientation",
+        "Agile Development Life Cycle",
+        "Scaled Agile Framework",
+        "Scrum Master",
+        "Product Owner"
+      ]
+    }
+    {
+      "name": "Other",
+      "level": "",
+      "keywords": [
+        "Emulytics with Minimega",
+        "Risk Management",
+        "Information Security",
+        "Qualitiative Code Analysis",
+        "Signal Processing",
+        "Biosensors"
       ]
     }
   ],

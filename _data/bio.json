@@ -109,29 +109,36 @@
     },
     {
       "company": "Intel Corporation",
-      "position": "Information Security Specialist in Cyber Risk Management, Information Security",
+      "position": "Information Security",
       "startDate": "2017-05-15",
       "endDate": "2020-03-15",
     },
     {
       "company": "Intel Corporation",
-      "position": "Product Engineer in Tapeout Technology Dev, Technology Manufacturing Group",
+      "position": "Product Engineer",
       "startDate": "2015-07-23",
       "endDate": "2017-05-15",
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "NSF Research Traineeship, Citizen-Centered Smart Cities and Smart Living",
+      "date": "2019-Present",
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "ARCS Mary Ann White Memorial Scholar",
+      "date": "2022-2023",
+      "awarder": "ARCS",
+    },
+    {
+      "title": "Awarded Honorable Mention in 2021 NSF Graduate Research Fellowship Program",
+      "date": "2021",
+      "awarder": "NSF",
+    },
+    {
+      "title": "Department Recognition Award, Intel Corporation Information Security",
+      "date": "2018",
+      "awarder": "Intel",
     }
   ],
   "references": [

@@ -126,69 +126,44 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Sandia National Laboratory",
+      "position": "R&D Cybersecurity Intern",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2020-05-25",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
+      "company": "Intel Corporation",
+      "position": "Information Security Specialist in Cyber Risk Management, Information Security",
+      "startDate": "2017-05-15",
+      "endDate": "2020-03-15",
     }
-  ],
-  "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
+      "company": "Intel Corporation",
+      "position": "Product Engineer in Tapeout Technology Dev, Technology Manufacturing Group",
+      "startDate": "2015-07-23",
+      "endDate": "2017-05-15",
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "NSF Research Traineeship, Citizen-Centered Smart Cities and Smart Living",
+      "date": "2019-Present",
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "ARCS Mary Ann White Memorial Scholar",
+      "date": "2022-2023",
+      "awarder": "ARCS",
+    },
+    {
+      "title": "Awarded Honorable Mention in 2021 NSF Graduate Research Fellowship Program",
+      "date": "2021",
+      "awarder": "NSF",
+    },
+    {
+      "title": "Department Recognition Award, Intel Corporation Information Security",
+      "date": "2018",
+      "awarder": "Intel",
     }
   ]
 }
